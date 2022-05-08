@@ -24,6 +24,7 @@ public class CourseServiceTest {
   private CourseServiceImpl subject;
 
   private static final Long ID = 1L;
+
   private static final String COURSE_NAME = "Java";
 
   private static final String COURSE_DESCRIPTION = "Java fundamentals I";
