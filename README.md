@@ -64,6 +64,8 @@ Docker is required.
    - Filter all courses without any students: GET `localhost:8080/v1/filter/courses-without-students`
    - Filter all students without any courses: GET `localhost:8080/v1/filter/students-without-courses`
 
+A Postman collection can be found in [Postman folder](postman).
+
 ## Technology stack:
 - Java 11
 - Maven
