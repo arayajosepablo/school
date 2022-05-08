@@ -37,6 +37,7 @@ Docker is required.
        "lastName": "Doe",
        "email": "andread@gmail.com"
      }
+     ```
    - Update student: PUT `localhost:8080/v1/student/{studentID}`
    - Delete student: DELETE `localhost:8080/v1/student/{studentID}`
 
